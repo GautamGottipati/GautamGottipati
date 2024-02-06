@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Gottipati</h1>
-<h3 align="center">I am a passionate software developer, currently living in USA</h3>
+<h3 align="center">I am a passionate software developer/ Data Engineer, currently living in USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgottipati&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgottipati" /> </p>
 
